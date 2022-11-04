@@ -1,6 +1,5 @@
-[**Link to Portfolio**](https://mahrukh-k.github.io/Portfolio/)
+[**Link to Main Portfolio Page**](https://mahrukh-k.github.io/Portfolio/)
 
-[**Link to DataVizPage**](https://mahrukh-k.github.io/Portfolio/dataviz2.html)
 
 ## OECD General Government Debt 2021
 
