@@ -9,3 +9,7 @@
 ## OECD General Government Debt 1995 - 2021
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11701494"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## OECD General Government Debt Over Time
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/11702433"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
