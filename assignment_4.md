@@ -18,7 +18,8 @@ I redesigned the visualization on Figma and made the following modifications:
 ### User Feedback
 I interviewed two people to get feedback on my sketch. 
 
-#### Interviewee-1 (Female; Non-technical background; Age early 30s)
+
+#### _Interviewee-1 (Female; Non-technical background; Age early 30s)_
 
 **Can you tell me what you think this is?**
 
@@ -41,7 +42,7 @@ Perhaps the sellers or marketers of antimicrobial agents in Europe.
 Maybe use a line graph 📉  instead of the circles with clear demarcation of different categories
 
 
-#### Interviewee-2 (Male; Technical background Age late 20s)**
+#### _Interviewee-2 (Male; Technical background Age late 20s)**_
 
 **Can you tell me what you think this is?**
 
@@ -69,14 +70,19 @@ _**What New Inspiration Arose:**_ If it is a stacked bubble chart then order the
 
 
 ## Redesign
-Feedback from interviewers suggests that the title and message is clear, however, the redesign using a bubble chart is still creating confusion and takes time to interpret what the visualization means. Based on the feedback from two interviewees and in-class exercise, I have made two versions of the redesign.
+Feedback from interviewees suggests that the title and message is clear, however, the redesign using a bubble chart is still creating confusion and takes time to interpret what the visualization means. Based on the feedback from two interviewees and in-class exercise, I have made two versions of the redesign.
+
 
 ### First Redesign
-<div class='tableauPlaceholder' id='viz1668554901992' style='position: relative'><noscript><a href='#'><img alt='Sales of antimicrobial classes for animals in Europe in 2010. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment_4_16685533290910&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment_4_16685533290910&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment_4_16685533290910&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1668554901992');var vizElement = divElement.getElementsByTagName('object')[0];vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
-
 In this first redesign similar to my sketch, I have reduced the use of colors by highlighting only those antimicrobial categories that are known to be most harmful. This information was taken from two external sources ([Source 1](https://www.frontiersin.org/articles/10.3389/fmicb.2016.01626/full), [Source 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7139321/)). Two modifications were not possible for this visualization in Tableau; 1) I was not able to order the countries on x-axis because the series on y-axis are more than one and 2) I was not able to add a note to the visualization as a Footer because that option is only available in the Dashboard option. I could add a caption to the chart but then I was not able to delete the title 'Caption' which did not look nice.
 
+<div class='tableauPlaceholder' id='viz1668554901992' style='position: relative'><noscript><a href='#'><img alt='Sales of antimicrobial classes for animals in Europe in 2010. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment_4_16685533290910&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment_4_16685533290910&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment_4_16685533290910&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1668554901992');var vizElement = divElement.getElementsByTagName('object')[0];vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+
+
+
 ### Second Redesign
+In the second redesign, I have used a map in Flourish to plot the antimicrobial agents one at a time. The original visualization looks busy because 11 categories are presented for each of the 18 countries. To make it simple and intuitive, I decided to show one antimicrobial class at a time and add a drop-down option to select the category of antimicrobial class. The color palette is red because it signifies a worrying situation. The legend goes from light red to dark red following general convention for numbers/percentages.
+
 <div class="flourish-embed flourish-map" data-src="visualisation/11833156"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-In the second redesign, I have used a map in Flourish to plot the antimicrobial agents one at a time. The original visualization looks busy because 11 categories are presented for each of the 18 countries. To make it simple and intuitive, I decided to show one antimicrobial class at a time and add a drop-down option to select the category of antimicrobial class. The color palette is red because it signifies a worrying situation. The legend goes from light red to dark red following general convention for numbers/percentages.
+
