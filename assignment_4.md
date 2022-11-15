@@ -18,44 +18,44 @@ I redesigned the visualization on Figma and made the following modifications:
 ### User Feedback
 I interviewed two people to get feedback on my sketch. 
 
-**Interviewee-1 (Female; Non-technical background; Age early 30s)**
+#### Interviewee-1 (Female; Non-technical background; Age early 30s)
 
-_**Can you tell me what you think this is?**_
+**Can you tell me what you think this is?**
 
 I think the graph shows the quantity of antimicrobial agents sold in different European countries in 2010
 
-_**Can you describe to me what this is telling you?**_
+**Can you describe to me what this is telling you?**
 
 It's showing how many mgs or PCUs of each category of an antimicrobial unit was sold in different European countries in 2010
 
-_**Is there anything you find surprising or confusing?**_
+**Is there anything you find surprising or confusing?**
 
 The size of the circles is very confusing. Not sure why the circles are getting larger as the mgs/pui increases. The colors are also confusing because there is not a lot of difference between them. This might've been better shown as a graph?
 
-_**Who do you think is the intended audience for this?**_
+**Who do you think is the intended audience for this?**
 
 Perhaps the sellers or marketers of antimicrobial agents in Europe.
 
-_**Is there anything you would change or do differently?**_
+**Is there anything you would change or do differently?**
 
 Maybe use a line graph 📉  instead of the circles with clear demarcation of different categories
 
 
-**Interviewee-2 (Male; Technical background Age late 20s)**
+#### Interviewee-2 (Male; Technical background Age late 20s)**
 
-_**Can you tell me what you think this is?**_
-
-
-_**Can you describe to me what this is telling you?**_
+**Can you tell me what you think this is?**
 
 
-_**Is there anything you find surprising or confusing?**_
+**Can you describe to me what this is telling you?**
 
 
-_**Who do you think is the intended audience for this?**_
+**Is there anything you find surprising or confusing?**
 
 
-_**Is there anything you would change or do differently?**_
+**Who do you think is the intended audience for this?**
+
+
+**Is there anything you would change or do differently?**
 
 
 
