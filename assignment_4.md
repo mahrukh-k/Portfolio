@@ -22,42 +22,37 @@ I interviewed two people to get feedback on my sketch.
 #### _Interviewee-1 (Female; Non-technical background; Age early 30s)_
 
 **Can you tell me what you think this is?**
-
 I think the graph shows the quantity of antimicrobial agents sold in different European countries in 2010
 
 **Can you describe to me what this is telling you?**
-
 It's showing how many mgs or PCUs of each category of an antimicrobial unit was sold in different European countries in 2010
 
 **Is there anything you find surprising or confusing?**
-
 The size of the circles is very confusing. Not sure why the circles are getting larger as the mgs/pui increases. The colors are also confusing because there is not a lot of difference between them. This might've been better shown as a graph?
 
 **Who do you think is the intended audience for this?**
-
 Perhaps the sellers or marketers of antimicrobial agents in Europe.
 
 **Is there anything you would change or do differently?**
-
 Maybe use a line graph 📉  instead of the circles with clear demarcation of different categories
 
 
-#### _Interviewee-2 (Male; Technical background Age late 20s)**_
+#### _Interviewee-2 (Male; Technical background Age late 20s)**
 
 **Can you tell me what you think this is?**
-
+It is the sales of antimicrobial agents in 2020 for European countries. The colors represent the type of antimicrobial. I think the graph is trying to make the user focus on the  antimicrobial agents that have the highest sales per country, that is why the top bubbles are bigger and at the top. So, for Belgium, the tops seeing  antimicrobial agent is cat 4.
 
 **Can you describe to me what this is telling you?**
-
+I think that the colors selected transmit the idea that the antimicrobial agents are harmful; this could well be the intention of the author. It also tells me that in some countries like Lithuania, Estonia, Iceland and Sweden, the sales of antimicrobials are very low; however, I am not sure if this is because they consume less, or because they produce less livestock. On the other hand, sales in countries like Belgium, Austria, Czech Republic, and some others, the sales are pretty high. However, I am not sure about the potential explanation; if either they use less antimicrobials in their livestock production or they produce less livestock.
 
 **Is there anything you find surprising or confusing?**
-
+I am a bit confused between the interpretation of the height and the size of the figures. My guess is that the size of the bubble represents the amount of sales for each country I have some doubts about how to exactly interpret the fact that in some countries the sales are low and in some are high. The author could include additional information in the title, or in a footnote.
 
 **Who do you think is the intended audience for this?**
-
+I think it is for an audience specialized in the agricultural or chemistry fields. There might be some specialized significance to the categories of the legends: cat 1, 2, 3, 4, …
 
 **Is there anything you would change or do differently?**
-
+Having so many colors make some of them very close to each other, so I got a bit confused to distinguish cat 7 from cat 10 because both are represented by shade of blue, so perhaps using less colors would increase the intuitiveness of the graph. Also, it could be better to just focus on a few categories, instead of trying to convey the information about all categories. One possibility would be to focus on the antimicrobial agents that are more dangerous for humans (I don’t know if this information exists). Another change would be on the y axis. I think that if the bubbles’ sizes are representing the total sales for each agent, then the y axis should not have text and instead I would add a legend that approximates the size to the amount of sales, perhaps in two or three ranges that correspond to range is sizes of the bubbles. I would order the graph in increasing or decreasing order, depending on what the main message is. I would perhaps group some of the antimicrobials, and then change the legend for the antimicrobial agents as they are only called cat 1, 2, 3, 4, 5… Perhaps something more informative would be of interest for the audience.
 
 
 ### Feedback from in-class exercise
