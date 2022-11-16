@@ -37,7 +37,7 @@ Perhaps the sellers or marketers of antimicrobial agents in Europe.
 Maybe use a line graph 📉  instead of the circles with clear demarcation of different categories
 
 
-#### _Interviewee-2 (Male; Technical background Age late 20s)**
+#### _Interviewee-2 (Male; Technical background Age late 20s)_
 
 **Can you tell me what you think this is?**
 It is the sales of antimicrobial agents in 2020 for European countries. The colors represent the type of antimicrobial. I think the graph is trying to make the user focus on the  antimicrobial agents that have the highest sales per country, that is why the top bubbles are bigger and at the top. So, for Belgium, the tops seeing  antimicrobial agent is cat 4.
