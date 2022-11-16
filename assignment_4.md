@@ -65,7 +65,7 @@ _**What New Inspiration Arose:**_ If it is a stacked bubble chart then order the
 
 
 ## Redesign
-Feedback from interviewees suggests that the title and message is clear, however, the redesign using a bubble chart is still creating confusion and takes time to interpret what the visualization means. Based on the feedback from two interviewees and in-class exercise, I have made two versions of the redesign.
+The original visualization can be found on [Page 23 of this report](https://www.ema.europa.eu/en/documents/report/sales-veterinary-antimicrobial-agents-19-european-union/european-economic-area-countries-2010-second-european-surveillance-veterinary-antimicrobial_en.pdf). Feedback from interviewees suggests that the title and message is clear, however, the redesign using a bubble chart is still creating confusion and takes time to interpret what the visualization means. Based on the feedback from two interviewees and in-class exercise, I have made two versions of the redesign.
 
 
 ### First Redesign
