@@ -9,9 +9,9 @@ Controlling and reducing food wastage can help reduce malnutrition by redirectin
 
 In particular, I will look into three key areas:
 
-1) How the trend of food wastage has changed over time
-2) Which products are categorized as high-wastage products
-3) At which stage of the food chain is the wastage the highest?
+* How the trend of food wastage has changed over time
+* Which products are categorized as high-wastage products
+* At which stage of the food chain is the wastage the highest?
 
 By identifying these aspects of food wastage, I intend to sensitize individuals (food producers, retailers and consumers) on how to reduce their food waste by presenting actionable recommendations.
 
