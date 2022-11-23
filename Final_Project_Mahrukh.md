@@ -31,12 +31,12 @@ Second, I will present the food-supply stage that has the highest level of food 
 ![qty_waste_sector_latest](https://user-images.githubusercontent.com/116593921/203442787-d17bd2a6-615a-4c64-97c2-adcc32e90a59.PNG)
 
 
-Third, moving on to the food wastage at the household level, I will present a country-level comparison showing which countries have the highest metric tonnest per capita of food wastage. 
+Third, moving on to the food wastage at the household level, I will present a country-level comparison showing which countries have the highest metric tonne per capita of food wastage. 
 
 ![hh_country](https://user-images.githubusercontent.com/116593921/203442797-2787e261-93c8-4d45-b334-e1f6b019a4d6.PNG)
 
 
-Fourth, I will dig deeper into the household level wastage and present which food items/categories have the highest wastage. This links directly to the main message of my project which is to urge consumers to be mindful about the quantity and timing of their food purchase to reduce food wastage.
+Fourth, I will dig deeper into the household level wastage and present which food items/categories have the highest wastage using a tree map. This links directly to the main message of my project which is to urge consumers to be mindful about the quantity and timing of their food purchase to reduce food wastage.
 
 ![hh_product](https://user-images.githubusercontent.com/116593921/203442803-0046485f-087e-48a7-ad8d-61899e06aa88.PNG)
 
