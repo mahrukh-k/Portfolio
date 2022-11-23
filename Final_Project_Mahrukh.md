@@ -1,9 +1,9 @@
 # [Portfolio](https://mahrukh-k.github.io/Portfolio/)
 
-# Final Project Part I
+# Final Project: Part I
 
 ## Outline
-In this project, I aim to highlight the increasing level of food wastage in United States. The [Sustainable Development Goal # 12](https://www.un.org/sustainabledevelopment/sustainable-consumption-production/) aims to end food wastage by the year 2030. Considering the alarming level of food wastage in United States, the U.S. Department of Agriculture set its first [domestic goal](https://www.epa.gov/sustainable-management-food/united-states-2030-food-loss-and-waste-reduction-goal#:~:text=The%20goal%20seeks%20to%20cut,money%20for%20families%20and%20businesses.) of ending food wastage by half by the the year 2030. Food wastage happens at various stages of the food supply chain. In particular, I will look into three key areas:
+The topic of my final project is household-level food wastage in United States. The [Sustainable Development Goal # 12](https://www.un.org/sustainabledevelopment/sustainable-consumption-production/) aims to end food wastage by the year 2030. Considering the alarming level of food wastage in United States, the U.S. Department of Agriculture set its first [domestic goal](https://www.epa.gov/sustainable-management-food/united-states-2030-food-loss-and-waste-reduction-goal#:~:text=The%20goal%20seeks%20to%20cut,money%20for%20families%20and%20businesses.) of ending food wastage by half by the the year 2030. Food wastage happens at various stages of the food supply chain. In particular, I will look into three key areas:
 
 * How has the trend of food wastage in United States changed over time?
 * Which stage of the food-supply chain has the highest food wastage?
@@ -56,3 +56,9 @@ Finally, to show the quantity food waste that is combusted annually, I will use 
  
 ## Method & Medium
 I will use Figma for the initial sketches. I intend to use both Tableau and Flourish for the visualizations. For the final project report/presentation, I will use shorthand to present my story and analysis. 
+
+## References
+* United Nations Environment Programme Database. _UNEP Food Waste Index Report 2021_. Available [here](https://www.unep.org/resources/report/unep-food-waste-index-report-2021). Accessed November 22, 2022.
+* United States Environment Protection Agency. _Studies, Summary Tables, and Data Related to the Advancing Sustainable Materials Management Report_. Available [here](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/studies-summary-tables-and-data-related). Accessed November 21, 2022.
+* Refed Insights Engine. Available [here](https://insights-engine.refed.org/food-waste-monitor?view=overview&year=2019). Accessed November 20, 2022.
+* Food and Agriculture Organization Food Loss and Waste Database. _Technical Platform on the Measurement and Reduction of Food Loss and Waste_. Available [here](https://www.fao.org/platform-food-loss-waste/flw-data/en/). Accessed November 20, 2022.
