@@ -16,4 +16,4 @@ Here are some of the projects that I have worked on:
 
 **[Assignment-4: Critique by Redesign](https://mahrukh-k.github.io/Portfolio/assignment_4.html)**
 
-**[Final Project](https://mahrukh-k.github.io/Portfolio/Final_Project_Mahrukh.html)**
+**[Final Project: Part I](https://mahrukh-k.github.io/Portfolio/Final_Project_Mahrukh.html)**
