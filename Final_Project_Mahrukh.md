@@ -42,7 +42,7 @@ Fourth, I will dig deeper into the household level wastage and present which foo
 
 
 ## Story Arc
-I presume that the audience will first be shocked and surprised to see the the alarming rate of food wastage in United States and how it directly affects the environment and food insecurity. I will then present data on household level food wastage which might upset the audience even more because they will be able to directly relate to the story. I believe there will be a positive shift in emotions once the audience learns about the simple and concrete actions they can take in their everyday life to reduce food wastage.
+I presume that the audience will be shocked and surprised to see the alarming rate of food wastage in United States and how it directly affects the environment and food insecurity. I will then present data on household level food wastage which might upset the audience even more because they will be able to directly relate to the story. I believe there will be a positive shift in emotions once the audience learns about the simple and concrete actions they can take in their everyday life to reduce food wastage.
 
 ![part1_storyarc](https://user-images.githubusercontent.com/116593921/203442821-4b3c9bf2-c95e-4d5b-b90b-89cfc2152911.PNG)
 
@@ -58,7 +58,7 @@ Finally, to show the quantity food waste that is combusted annually, I will use 
 I will use Figma for the initial sketches. I intend to use both Tableau and Flourish for the visualizations. For the final project report/presentation, I will use shorthand to present my story and analysis. 
 
 ## References
+* Food and Agriculture Organization Food Loss and Waste Database. _Technical Platform on the Measurement and Reduction of Food Loss and Waste_. Available [here](https://www.fao.org/platform-food-loss-waste/flw-data/en/). Accessed November 20, 2022.
+* Refed Insights Engine. Available [here](https://insights-engine.refed.org/food-waste-monitor?view=overview&year=2019). Accessed November 20, 2022.
 * United Nations Environment Programme Database. _UNEP Food Waste Index Report 2021_. Available [here](https://www.unep.org/resources/report/unep-food-waste-index-report-2021). Accessed November 22, 2022.
 * United States Environment Protection Agency. _Studies, Summary Tables, and Data Related to the Advancing Sustainable Materials Management Report_. Available [here](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/studies-summary-tables-and-data-related). Accessed November 21, 2022.
-* Refed Insights Engine. Available [here](https://insights-engine.refed.org/food-waste-monitor?view=overview&year=2019). Accessed November 20, 2022.
-* Food and Agriculture Organization Food Loss and Waste Database. _Technical Platform on the Measurement and Reduction of Food Loss and Waste_. Available [here](https://www.fao.org/platform-food-loss-waste/flw-data/en/). Accessed November 20, 2022.
