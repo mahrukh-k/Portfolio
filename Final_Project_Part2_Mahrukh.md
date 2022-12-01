@@ -30,8 +30,8 @@ Any other comments? | Transitions to negative impact should be more elaborative.
 
 Question | Comments |
 :--------- |:-----------|
-What worked | The first banner saying 'rotten potatoes' is eye-catching. Charts are easy to understand but could be enlarged to improve readability |
-What didn't work | You should try a simple donut/pie chart for total emissions by food waste instead of having different types of emissions. Comparing it with emissions from other another industry might be interesting. Try a comparison chart showing total food waste as a very big icon and the donations as a very small icon. Make the charts bigger. |
+What worked? | The first banner saying 'rotten potatoes' is eye-catching. Charts are easy to understand but could be enlarged to improve readability |
+What didn't work? | You should try a simple donut/pie chart for total emissions by food waste instead of having different types of emissions. Comparing it with emissions from other another industry might be interesting. Try a comparison chart showing total food waste as a very big icon and the donations as a very small icon. Make the charts bigger. |
 What questions came up? | Do the readers want to know how much of each pollutant is released by burning food waste? If not, then just present total pollutants. |
 What new inspiration arose? | You might want to add a fourth point to the call to action on donating food. Food banks such as 412 Food Rescue in Pittsburgh is one relevant organization. |
 
