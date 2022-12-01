@@ -26,6 +26,8 @@ Any other comments? | Transitions to negative impact should be more elaborative.
 
 
 ### In-Class Exercise
+
+
 Question | Comments |
 :--------- |:-----------|
 What worked | The first banner saying 'rotten potatoes' is eye-catching. Charts are easy to understand but could be enlarged to improve readability |
