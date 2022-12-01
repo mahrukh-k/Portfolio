@@ -9,10 +9,16 @@ I have developed an initial wireframe of the project on [Shorthand](https://prev
 
 ## User Research
 
+### Goal
+The goal of this user research is to understand the elements of my story that people can easily recall. The main message is to reduce food waste at the consumer level and that is one of the key messages I want my viewers to take away from this story. In addition, I intend to use this research to see if visuals are self-explanatory, if the alignment of visuals and text is easy on the eyes, if the font and color scheme is seen as appropriate and if the viewer is engaged with the content. 
+
+### Target Audience
+The key idea that I want to present is that although food wastage happens at multiple levels of the food supply chain and has impacts that are beyond our control, however, we cannot disregard the fact that a significant percentage of the food wastage happens at the household level by consumers like us. Hence, the target audience for my project is an average consumer who buys and consumes food products. 
+
+### Approach to identifying individuals
+I interviewed two students from Heinz College who understand data visualizations. This is because I wanted feedback from someone who has seen visualizations in the past and who can comment on the various elements of the story. I wanted to interview someone from the non-technical background as well so that I can understand a layman would interpret the charts. For this interview, I hoped to get more feedback on the flow of the story, transitions, and the clarity of the main message.
+
 ### Interviews
-For the user research, I interviewed three people. The purpose of my research was to understand the elements of my story that they can recall. I asked additional questions on the visuals and the positioning of 
-
-
 
 Question  | Interviewee-1 <br /> Male, Age late 30s, semi-technical background | Interviewee-2 <br /> Female, Age early 20s, technical background | Interviewee-3 <br />  Female, Age early 30s, non-technical background |
 |:--------- |:-----------|:-----------|:------------|
@@ -26,7 +32,6 @@ Any other comments? | Transitions to negative impact should be more elaborative.
 
 
 ### In-Class Exercise
-
 
 Question | Comments |
 :--------- |:-----------|
