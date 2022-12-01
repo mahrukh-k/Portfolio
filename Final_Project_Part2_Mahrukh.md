@@ -45,3 +45,5 @@ It seems that all interviewees got the key message which is to reduce food wasta
 * Change title of food donations chart.
 * Try to change the food donations chart to a comparison chart showing total food waste as a big icon and total donations as a very small icon.
 * Change the food waste emissions chart to present only total emissions.
+* Make Tableau charts in Tableau dashboard and add footnote for data source. 
+* Add text and details in the 'call to action'.
