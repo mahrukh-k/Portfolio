@@ -19,3 +19,6 @@ Here are some of the projects that I have worked on:
 **[Final Project: Part I](https://mahrukh-k.github.io/Portfolio/Final_Project_Part1_Mahrukh.html)**
 
 **[Final Project: Part II](https://mahrukh-k.github.io/Portfolio/Final_Project_Part2_Mahrukh.html)**
+
+**[Final Project: Part III](https://mahrukh-k.github.io/Portfolio/Final_Project_Part3_Mahrukh.html)**
+
