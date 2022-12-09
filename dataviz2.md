@@ -22,5 +22,4 @@ The second visualization is a grid line chart showing the GDP to Debt Ratio for 
 
 For the the third data visualization, I have used a bubble chart to display the GDP to Debt Ratio for different countries over time. The bubble chart helps to display the size of the variable of importance i.e. GDP to Debt Ratio adequately; a smaller bubble represents a lower ratio and a larger bubble represents a higher ratio. I have used a color palette of "Reds" that goes from light orange to red. I choose this color because a higher GDP to Debt Ratio is an alarming situation and a red color is suitable in this context. The color scale also goes from light orange (lower ratio) to dark red (higher ratio) according to general convention. Furthermore, I have added a time slider to show how the ratio changes over time. This feature has helped in making the chart more clear because adding Year within the same chart would have made the chart look more busy. 
 
-
 [**Go to Main Portfolio Page**](https://mahrukh-k.github.io/Portfolio/)
