@@ -54,3 +54,6 @@ It seems that all interviewees got the key message which is to reduce food wasta
 * Change the food waste emissions chart to present only total emissions.
 * Make Tableau charts in Tableau dashboard and add footnote for data source. 
 * Add text and details in the 'call to action'.
+
+
+[**Go to Main Portfolio Page**](https://mahrukh-k.github.io/Portfolio/)
