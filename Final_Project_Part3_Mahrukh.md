@@ -9,7 +9,7 @@
 ## Summary of Changes:
 When I started working on this project in Part I, the idea was too broad because I was focusing on food waste globally, in United States, in different sectors, and in households. I received feedback that it should be narrowed down further. In Part II, I changed the focus only to households and modified my call to action accordingly. The first set of feedback I recieved in Part-2 from the User Research helped me improve some of the elements of the visuals. The interviews were also helpful in removing content that was distracting. Following the interviews, in-class discussion and the Teaching Team's feedback, I made the following changes to my story:
 
-**Changes to Visuals:
+**Changes to Visuals:**
 
 First, I enlarged all visuals by making them in a Tableau Dashboard. This also allowed me to add the Source of data in a text box below the visual. Second, I made the titles bigger (in bold and colored) and also changed the phrasing of all titles; instead of describing what the chart is about, I wrote the key message of the visual in the title. For example, the area chart now reads "In 2019, a total of 21 million tons of food waste was attributed to households in United States" which was previously "Food waste across sectors".
 
@@ -19,7 +19,7 @@ For the impact of food wastage, my User Research showed that both the visuals we
 
 I also got feedback on presenting the 59 kg food waste in the form of burgers. I did not find a right place to add it because this information is in a banner. But this feedback made me think that I could perhaps present the first statistic on "one-third of all food is wasted" as a pictorial so I added that in the first frame. I used Infogram to create the pictorial. 
 
-**Changes to Shorthand layout:
+**Changes to Shorthand layout:**
 
 Previously, I was starting my story with the Sustainable Development Goal. But I thought viewers might need more context on why it is important after all. So, in the first frame of the story on Shorthand, I added a key statistic "one-third of all food produced in the world is wasted" to set the context before giving more information about the Sustainable Development Goal and U.S. domestic goal of reducing food waste.
 
@@ -31,5 +31,5 @@ I also received feedback on separating the two impacts of food waste (greenhouse
 
 In the call to action, I had originally created different frames for each Action item but I received feedback to make the font bigger and center-align it with the images so I changed these frames accordingly. Finally, to make the Call to Action relevant for my presentation audience, I added a link to 412 Food Rescue, an organization operating in Pittsburgh that collects excess food and distributes it to those in need. 
 
-**My final data story is available on [Shorthand](https://carnegiemellon.shorthandstories.com/rotten-potatoes/index.html)
+**My final data story is available on [Shorthand](https://carnegiemellon.shorthandstories.com/rotten-potatoes/index.html)**
 
